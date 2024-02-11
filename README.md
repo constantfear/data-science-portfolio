@@ -8,4 +8,5 @@ This repository contains portfolio of data science projects completed by me for 
 - ## Courses
     - [Girafe-AI](/Girafe-AI%20ML%20course/): Homework for the Machine Learning Course from Girafe AI
     - [Yandex ML-Trainig](/Yandex-Training%20ML%202023/): Homework for the ML-Training from Yandex
+    - [MTS. School of Data Analysis](https://github.com/constantfear/MTS-homework)
 
