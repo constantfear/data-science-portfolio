@@ -1,0 +1,5 @@
+# DLSchool course
+[Source](https://github.com/DLSchool/deep-learning-school)
+
+- ### [Homework 1](/DLSchool%20course/homework_1/)
+    > Python basics
