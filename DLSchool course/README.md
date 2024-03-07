@@ -6,3 +6,7 @@
 
 - ### [Homework 2](/DLSchool%20course/homework_2/)
     > NumPy and Linear Algebra
+
+- ### [Homework 3](/DLSchool%20course/homework_3/)
+    > Pandas
+
