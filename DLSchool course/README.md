@@ -10,3 +10,6 @@
 - ### [Homework 3](/DLSchool%20course/homework_3/)
     > Pandas
 
+- ### [Homework 4](/DLSchool%20course/homework_4/)
+    > Optimization and gradient descent
+
