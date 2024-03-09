@@ -13,3 +13,6 @@
 - ### [Homework 4](/DLSchool%20course/homework_4/)
     > Optimization and gradient descent
 
+- ### [Homework 5](/DLSchool%20course/homework_5/)
+    > ML basic
+
