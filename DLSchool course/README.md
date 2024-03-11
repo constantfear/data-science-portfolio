@@ -16,3 +16,7 @@
 - ### [Homework 5](/DLSchool%20course/homework_5/)
     > ML basic
 
+- ### [Homework 6](/DLSchool%20course/homework_6/)
+    > Linear Models
+
+
