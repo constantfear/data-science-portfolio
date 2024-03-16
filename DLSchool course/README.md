@@ -19,4 +19,5 @@
 - ### [Homework 6](/DLSchool%20course/homework_6/)
     > Linear Models
 
-
+- ### [Homework 8](/DLSchool%20course/homework_8/)
+    > Fully Connected and Convolutional Neural Networks
