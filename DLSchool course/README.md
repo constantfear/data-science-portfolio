@@ -21,3 +21,6 @@
 
 - ### [Homework 8](/DLSchool%20course/homework_8/)
     > Fully Connected and Convolutional Neural Networks
+
+- ### [Homework 12](/DLSchool%20course/homework_12/)
+    > Autoencoders
