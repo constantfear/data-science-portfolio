@@ -10,5 +10,6 @@ This repository contains portfolio of data science projects completed by me for 
     - [Girafe-AI](/Girafe-AI%20ML%20course/): Homework for the Machine Learning Course from Girafe AI
     - [Yandex ML-Trainig](/Yandex-Training%20ML%202023/): Homework for the ML-Training from Yandex
     - [DLSchool](/DLSchool%20course/): Homework for the DLSchool Course
+    - [Yandex Data School NLP](/YandexDataSchool_NLP/): Homework for the Yandex Data School NLP Course
     - [MTS. School of Data Analysis](https://github.com/constantfear/MTS-homework): Homework for the MTS School of Data Analysis
 
