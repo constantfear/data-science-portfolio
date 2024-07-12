@@ -6,6 +6,7 @@ This repository contains portfolio of data science projects completed by me for 
     - [Outflow of users](/Предсказание%20оттока%20пользователей/): A contest from a machine learning course from Deep Learning School. In this task, it was necessary to train a model that would classify users.
     - [Vk-internship](/Vk_intern_test/): Solving a test assignment from a VK internship.
     - [Tweet Sentiment Analysis](./Tweet%20Sentiment%20Analysis/)
+    - [Named Entity Recognition](./Named%20Entity%20Recognition/)
 
 - ## Courses
     - [Girafe-AI](/Girafe-AI%20ML%20course/): Homework for the Machine Learning Course from Girafe AI
