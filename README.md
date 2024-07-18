@@ -7,6 +7,7 @@ This repository contains portfolio of data science projects completed by me for 
     - [Vk-internship](/Vk_intern_test/): Solving a test assignment from a VK internship.
     - [Tweet Sentiment Analysis](./Tweet%20Sentiment%20Analysis/)
     - [Named Entity Recognition](./Named%20Entity%20Recognition/)
+    - [BBC-News Text-Summarization](./BBC-News%20Text%20Summarization/)
 
 - ## Courses
     - [Girafe-AI](/Girafe-AI%20ML%20course/): Homework for the Machine Learning Course from Girafe AI
